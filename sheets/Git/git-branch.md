@@ -100,11 +100,3 @@ git push --force
 ```
 
 > Note: 使用 --force 提交可能会覆盖远端分支的内容，请谨慎使用。
-
-xxxx
-
-
-
-
-
-xxxx
